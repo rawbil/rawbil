@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @rawbil<br>- 👀 I’m interested in  fullstack web development and ethical hacking<br>- 🌱 I’m currently working with MERN stack, looking to explore Python in the near future<br>- 💞️ I’m looking to collaborate on future projects<br>-  📫 How to reach me ...bildadsimiyu6@gmail.com<br>-⚡ Fun fact: I am very boring
+- 👋 Hi, I’m @rawbil<br>- 👀 I’m interested in  fullstack web development and data science and machine learning<br>- 🌱 I’m currently working with MERN stack, exploring quantitative analysis(Quant Finance)<br>- 💞️ I’m looking to collaborate on future projects<br>-  📫 How to reach me ...bildadsimiyu6@gmail.com<br>-⚡ Fun fact: I am very boring
 
 
 # 💻 Tech Stack:
