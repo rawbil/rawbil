@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Bildad<br>- 👀 I’m interested in fullstack web development and machine learning<br>- 🌱 I’m currently working with MERN stack,Python and PHP,  and exploring quantitative analysis(Quant Finance)<br>- 💞️ I’m looking to collaborate on future projects<br>- 📫 How to reach me ...bildadsimiyu6@gmail.com<br>
+👋 Hi, I’m Bildad<br>- 👀 I’m interested in fullstack web development and machine learning<br>- 🌱 I’m currently working with Express, Nestjs ,Python and exploring quantitative analysis(Quant Finance)<br>- 💞️ I’m looking to collaborate on future projects<br>- 📫 How to reach me ...bildadsimiyu6@gmail.com<br>
 
 <!--
 ## 🌐 Socials:
