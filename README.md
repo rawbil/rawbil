@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on implementing Large Language Models using Langchain<br>👯 I’m looking to collaborate on AI and Machine Learning<br>🌱 I’m currently learning Web Scraping and LLMs<br>💬 Ask me about NestJs, Express, and Frontend Frameworks<br>⚡ Fun fact: I am a Potterhead and loves playing chess
+🔭 I’m currently working on implementing Large Language Models using Langchain<br>👯 I’m looking to collaborate on AI and Machine Learning<br>🌱 I’m currently learning Web Scraping and LLMs<br>💬 Ask me about NestJs, Express, and Frontend Frameworks<br>⚡ Fun fact: Potterhead
 
 
 ## 🌐 Socials:
