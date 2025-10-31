@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on creating Applications using Large Language Models<br>👯 I’m looking to collaborate on Machine Learning, Data Science and Fullstack Development<br>⚡ Fun fact: Potterhead<br><br>
+🔭 I’m currently building Applications using Large Language Models<br>👯 I’m looking to collaborate on Machine Learning, Data Science and Fullstack Development<br>⚡ Fun fact: Potterhead<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bildad-simiyu) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/hewhomustnotbenam3d) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rawbil__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bildadsimiyu6@gmail.com) 
 
